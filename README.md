@@ -42,12 +42,12 @@
 
 ## 📂 Projects
 
-### 🔹 IoT Dust Management System *(Feb 2025 - Present)*
+### 🔹 IoT Dust Management System *(Feb 2025 - May 2025)*
 - **Real-time dust monitoring & automation system** using **IoT & AI**
 - Uses **ESP32, sensors, Blynk IoT dashboard** for data visualization
 - **Goal**: Reduce airborne dust for improved safety & air quality
 
-### 🔹 Community Engagement Project *(Feb 2025 - Present)*
+### 🔹 Community Engagement Project *(Feb 2025 - May 2025)*
 - **Developed an AI-driven chatbot** to enhance customer interaction for *Sai Sundha Steel Traders*
 - Implemented **prompt engineering** for better chatbot responses
 - Built a **website interface** for an improved user experience
