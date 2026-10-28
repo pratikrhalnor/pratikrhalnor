@@ -1,102 +1,23 @@
-# Hey 👋 What's up?
+## 👋 About Me<br><br>Hi, I'm **Pratik Halnor**, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Sanjivani University.<br><br>- 🤖 Interested in **Machine Learning, LLMs, Generative AI, and AI Agent Development**.<br>- 🧠 Hands-on experience with **Python, Scikit-learn, LangChain, LangGraph, and Retrieval-Augmented Generation (RAG)**.<br>- 💻 Currently working as a Software Engineering Intern, contributing to full-stack development, API integrations, and AI-powered workflows using FastAPI, React.js, and Next.js.<br>- 🔬 Previously worked as an LLM Post-Training Intern, contributing to data annotation, response evaluation, and model quality improvement.<br>- 🚀 Built projects involving AI assistants, document question answering, and machine learning-based anomaly detection.<br>- ☁️ Exploring cloud technologies, Docker, AWS, and scalable AI application deployment.<br><br>I'm passionate about building practical AI solutions that solve real-world problems and continuously improving my skills in AI engineering and software development.<br><br>📫 
 
-## Pratik Halnor - B.Tech (CSE - AIML)
 
-📍 **Shrirampur, India**  
-📧 **halnorpratik2004@gmail.com**  
-🔗 **[GitHub](https://github.com/pratikrhalnor)**  
-📞 **8055324569**  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratikrhalnor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-halnor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:halnorpratik2004@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pratikrhalnor&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pratikrhalnor&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pratikrhalnor&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pratikrhalnor&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4)
 
-- 🎓 Pursuing **B.Tech in CSE (AIML)** at *Sanjivani University* (2024 - Present)
-- 🏅 **Diploma in Mechatronics** from *Sanjivani K.B.P Polytechnic* (2021 - 2024)
-- 🚀 Aspiring AI/ML Developer with strong problem-solving & adaptability skills
-- 💡 Passionate about IoT, AI, and real-world tech applications
-- 📖 Currently learning **AI & ML**, improving my **Python, SQL, and OpenCV** skills
-- 🎯 Goal: Master AI/ML & work on impactful projects
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=pratikrhalnor&icon=0&color=10)](https://visitcount.itsvg.in)
 
-## 📂 Projects
-
-### 🔹 IoT Dust Management System *(Feb 2025 - May 2025)*
-- **Real-time dust monitoring & automation system** using **IoT & AI**
-- Uses **ESP32, sensors, Blynk IoT dashboard** for data visualization
-- **Goal**: Reduce airborne dust for improved safety & air quality
-
-### 🔹 Community Engagement Project *(Feb 2025 - May 2025)*
-- **Developed an AI-driven chatbot** to enhance customer interaction for *Sai Sundha Steel Traders*
-- Implemented **prompt engineering** for better chatbot responses
-- Built a **website interface** for an improved user experience
-
----
-
-## 💼 Work Experience
-
-### **Diploma Engineer Trainee** *(Larsen & Toubro - June 2023 to June 2024)*
-📍 *Pune, India*  
-- Worked on **defense equipment projects** (Anti-Submarine Systems)
-- **Led QA/QC efforts** for **Factory Acceptance Trials (FAT)** under strict protocols
-- Ensured **system compliance & high operational reliability**
-
----
-
-## 🏆 Strengths
-
-- 🤝 **Teamwork & Communication**
-- 🧠 **Problem-Solving & Adaptability**
-- ⚡ **Fast Learner & Quick Adaptor to New Technologies**
-
----
-
-## 🌍 Languages
-
-- **English** - Proficient
-- **Marathi** - Native
-- **Hindi** - Advanced
-- **German** - Beginner
-
----
-
-## 🔗 Connect with Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pratikrhalnor"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="https://www.instagram.com/pratikrhalnor"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikrhalnor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikrhalnor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
----
-
-🔹 *Always open to collaboration and learning new things in AI/ML & IoT! Feel free to connect!* 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
